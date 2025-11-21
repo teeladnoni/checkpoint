@@ -8,5 +8,6 @@ func main() {
 	// println(piscine.CountChar("biscuits", 's'))
 	// print(piscine.PrintIf("f"))
 	// print(piscine.ReacPerimeter(5, 3))
-	print(piscine.HalfOfString("batt"))
+	// print(piscine.HalfOfString("batt"))
+	print(piscine.DigitLen(200, 10))
 }
